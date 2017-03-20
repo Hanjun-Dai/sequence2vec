@@ -29,13 +29,7 @@ Tested under Ubuntu 14.04
 
     check https://github.com/fmtlib/fmt for help
     
-#### Build static library
-
-    cd 3rd_party/graphnn-1.11
-    modify configurations in make_common file
-    make
-    
-#### Build static library
+#### Build
     make
     
 ##### Run Kd prediction
