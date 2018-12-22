@@ -4,7 +4,7 @@
 #include "i_param.h"
 #include <map>
 #include <vector>
-#include "fmt/format.h"
+#include "fmt.h"
 
 template<MatMode mode, typename Dtype>
 class Model

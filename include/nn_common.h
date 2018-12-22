@@ -11,7 +11,7 @@
 #include "graph_pool_param.h"
 #include "param_layer.h"
 #include "input_layer.h"
-#include "cppformat/format.h"
+#include "fmt.h"
 #include "relu_layer.h"
 #include "c_add_layer.h"
 #include "mse_criterion_layer.h"
